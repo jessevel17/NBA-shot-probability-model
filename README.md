@@ -2,7 +2,7 @@
 
 An interpretable logistic regression model built in R to evaluate individual NBA shot quality and expected make probability using historical shot-tracking data[cite: 2, 3]. Designed to provide actionable insights for front-office evaluation and coaching staff game-planning[cite: 3, 5].
 
-![Logistic Regression Feature Coefficients](output/feature_importance.png)
+![Logistic Regression Feature Coefficients](feature_importance.png)
 
 ## Objective
 Quantify the baseline probability of a shot going in based on spatial mechanics, defensive pressure, and play context[cite: 3]—isolating shot quality from short-term shooting variance[cite: 5].
